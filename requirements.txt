@@ -1,0 +1,4 @@
+pydoll-python>=3.0   # headless Edge/Chrome driver + Cloudflare Turnstile handling
+pystray              # system tray icon
+pillow               # tray icon image
+plyer                # Windows desktop notifications
